@@ -1,7 +1,7 @@
 site_name: PYRA Token / Exchange
 
 theme:
-  name: 'material'
+  name: 'readthedocs'
  
 nav:
     - Get started:
